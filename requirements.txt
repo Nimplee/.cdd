@@ -1,0 +1,6 @@
+pypiwin32==223
+pywin32==303
+colorama==0.4.4
+urllib3==1.26.8
+requests==2.27.1
+pywin32-ctypes==0.2.0

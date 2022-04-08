@@ -1,0 +1,6 @@
+{
+    "server-IP": "mc.example.net",
+    "server-PORT": "25565",
+    "time": "9999",
+    "threads": "3500"
+}
